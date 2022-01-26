@@ -6,7 +6,7 @@ HuskyTest é um sistema feito em Laravel e Vuejs para a empresa Husky Logística
 
 Para utilizar o sistema:
 - Primeiro, tenha certeza de que tens um ambiente de desenvolvimento PHP + MySQL + Composer + NPM.
-- Baixe o projeto, seja como .zip ou através de um comando.
+- Baixe o projeto, seja como .zip ou através do 'clone'.
 - Utilize o composer install para baixar as dependências do projeto. npm i também é bem-vindo.
 - Caso não tenha sido criado o .env, copie o arquivo .env.example, renomeando o arquivo para .env.
 - No MySQL, crie uma base de dados e use o nome dela com seus dados de acesso no arquivo .env.
